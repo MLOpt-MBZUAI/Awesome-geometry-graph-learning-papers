@@ -1,1 +1,1 @@
-# awasome-geometry-graph-learning-papers
+# Awesome-geometry-graph-learning-papers
